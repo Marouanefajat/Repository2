@@ -1,0 +1,7 @@
+Credentials cache: API:1158
+        Principal: mfajat@1337.MA
+
+  Issued                Expires               Principal
+Jul 16 16:33:24 2018  Jul 17 02:33:24 2018  krbtgt/1337.MA@1337.MA
+Jul 16 16:33:25 2018  Jul 17 02:33:24 2018  ldap/ldap-master.1337.ma@1337.MA
+Jul 16 16:33:26 2018  Jul 17 02:33:24 2018  HTTP/iscsi.1337.ma@1337.MA
